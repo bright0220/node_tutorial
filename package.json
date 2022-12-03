@@ -1,0 +1,25 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bright0220/node_tutorial.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "bright0220",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bright0220/node_tutorial/issues"
+  },
+  "homepage": "https://github.com/bright0220/node_tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
